@@ -19,6 +19,11 @@ instances where alcohol has caused detrimental effects. There have been stories 
 
 [I'm a reference-style link][Pe-ru-na Case-insensitive reference text]
 [arbitrary case-insensitive reference text]: https://dig-eg-gaz.github.io/post/2017-04-14-bolton-blog/
+[arbitrary case-insensitive reference text]: https://dig-eg-gaz.github.io/post/2016-10-30-doublemurder/
+[arbitrary case-insensitive reference text]: https://dig-eg-gaz.github.io/post/2019-10-16-peytonsmith/
+[arbitrary case-insensitive reference text]: https://fsu.catalog.fcla.edu/permalink.jsp?23FS033643808
+[arbitrary case-insensitive reference text]: https://fsu.catalog.fcla.edu/permalink.jsp?23FS025592428
+[arbitrary case-insensitive reference text]: https://fsu.catalog.fcla.edu/permalink.jsp?23HATHI009009039
 If you want to include other images, add the image file to the folder containing this file, and use this format:
 
 ![image-name](image-filename.png "Caption")
